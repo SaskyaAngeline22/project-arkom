@@ -1,0 +1,4 @@
+HASIL BENCHMARK
+
+Sequential : 0.00199986 detik
+Parallel   : 0.00200009 detik
